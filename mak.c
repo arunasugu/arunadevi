@@ -6,13 +6,13 @@ int a;
 clrscr();
   printf("enter the value of a");
   scanf("%d",&a);
-if (a==420i)
+if (a==420)
 {
 printf("positive");
 }
 else
 {
-printf("negative")
+printf("negative");
 }
 getch();
 }
