@@ -8,11 +8,11 @@ clrscr();
   scanf("%d",&a);
 if (a==420)
 {
-printf("positive");
+printf("odd");
 }
 else
 {
-printf("negative");
+printf("even");
 }
 getch();
 }
