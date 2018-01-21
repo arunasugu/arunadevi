@@ -23,6 +23,7 @@ if(c>b)
   printf("%d",c);
 }
   else
+  {
     printf("%d",b);
 }
 getch();
