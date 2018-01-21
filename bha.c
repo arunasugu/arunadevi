@@ -2,17 +2,17 @@
 #include<conio.h>
 void main()
 {
-int a;
+char a,i;
 clrscr();
   printf("enter the value of a");
-  scanf("%d",&a);
-if (a==420)
+  scanf("%c",&a);
+if (a==i)
 {
-printf("odd");
+printf("vowel");
 }
 else
 {
-printf("even");
+printf("constant");
 }
 getch();
 }
